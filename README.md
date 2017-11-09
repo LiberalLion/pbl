@@ -55,10 +55,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
                                             <li name="8e38" id="8e38" class="graf graf--li graf-after--li"><a href="https://www.fullstackacademy.com/student-gallery" data-href="https://www.fullstackacademy.com/student-gallery" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Fullstack Student Final Projects</a></li>
                                             <li name="e618" id="e618" class="graf graf--li graf-after--li"><a href="https://www.reddit.com/r/webdev/comments/3we48y/web_app_ideas_for_the_growing_web_developer/" data-href="https://www.reddit.com/r/webdev/comments/3we48y/web_app_ideas_for_the_growing_web_developer/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Web app ideas for the growing web developer</a></li>
                                         </ul>
-                                        
-                                    </div>
-                                </div>
-                            </section>
 
 ## Table of Contents:
 * [C/C++](#cc)
