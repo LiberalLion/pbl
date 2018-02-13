@@ -4,6 +4,7 @@ A list of programming tutorials in which learners build an application from scra
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+-----------------
 
 (by Gopal)
 
@@ -13,61 +14,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [freecodecamp](https://www.freecodecamp.org/)(to learn web dev)
+* [producthunt](https://www.producthunt.com/)(to watch new products in the market)
 
-
-
-
-# #ref 
-
-<section name="66e4" class="section section--body">
-                                <div class="section-divider">
-                                    <hr class="section-divider">
-                                </div>
-                                <div class="section-content">
-                                    <div class="section-inner sectionLayout--insetColumn">
-                                        <h3 name="0263" id="0263" class="graf graf--h3 graf--leading">[Optional] Courses</h3>
-                                        <p name="94e4" id="94e4" class="graf graf--p graf-after--h3">Want to keep learning? Here are some additional courses that I recommend that dive deeper into the subject of your choosing:</p>
-                                        <ul class="postList">
-                                            <li name="2e9f" id="2e9f" class="graf graf--li graf-after--p"><a href="https://goo.gl/kCmXzz" data-href="https://goo.gl/kCmXzz" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Build React JS Projects</a></li>
-                                            <li name="63fc" id="63fc" class="graf graf--li graf-after--li"><a href="https://goo.gl/1YTq5e" data-href="https://goo.gl/1YTq5e" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Build Node.js Projects</a></li>
-                                            <li name="2282" id="2282" class="graf graf--li graf-after--li"><a href="https://goo.gl/gFS45M" data-href="https://goo.gl/gFS45M" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Learn Advanced CSS</a></li>
-                                            <li name="a741" id="a741" class="graf graf--li graf-after--li graf--trailing"><a href="https://goo.gl/BaV4go" data-href="https://goo.gl/BaV4go" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Learn Advanced JavaScript</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </section>
-                            <section name="5e44" class="section section--body">
-                                <div class="section-divider">
-                                    <hr class="section-divider">
-                                </div>
-                                <div class="section-content">
-                                    <div class="section-inner sectionLayout--insetColumn">
-                                        <h3 name="5131" id="5131" class="graf graf--h3 graf--leading">Coding Games</h3>
-                                        <p name="f5ac" id="f5ac" class="graf graf--p graf-after--h3">Level up your skills in your free time with these fun coding games and challenge websites.</p>
-                                        <ul class="postList">
-                                            <li name="e296" id="e296" class="graf graf--li graf-after--p"><a href="https://www.codechef.com/" data-href="https://www.codechef.com/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Codechef</a></li>
-                                            <li name="502e" id="502e" class="graf graf--li graf-after--li"><a href="https://www.codewars.com/" data-href="https://www.codewars.com/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Code Wars</a></li>
-                                            <li name="eaad" id="eaad" class="graf graf--li graf-after--li"><a href="https://www.codingame.com/" data-href="https://www.codingame.com/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Coding Game</a></li>
-                                            <li name="fa63" id="fa63" class="graf graf--li graf-after--li graf--trailing"><a href="https://www.hackerrank.com/domains/cpp/cpp-introduction" data-href="https://www.hackerrank.com/domains/cpp/cpp-introduction" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Hacker Rank</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </section>
-                            <section name="6cf6" class="section section--body">
-                                <div class="section-divider">
-                                    <hr class="section-divider">
-                                </div>
-                                <div class="section-content">
-                                    <div class="section-inner sectionLayout--insetColumn">
-                                        <h3 name="8dff" id="8dff" class="graf graf--h3 graf--leading">Build Something</h3>
-                                        <p name="5524" id="5524" class="graf graf--p graf-after--h3">Go forth and build something cool! Show off all of the skills you’ve learned and bring an idea from concept to production!</p>
-                                        <p name="0a6e" id="0a6e" class="graf graf--p graf-after--p">Need some help brainstorming what to build? Here are a few links that should have you thinking in the right direction:</p>
-                                        <ul class="postList">
-                                            <li name="b59c" id="b59c" class="graf graf--li graf-after--p"><a href="https://react.rocks/tag/FullStack?show=40" data-href="https://react.rocks/tag/FullStack?show=40" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">94 Full Stack Examples</a></li>
-                                            <li name="a513" id="a513" class="graf graf--li graf-after--li"><a href="https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519" data-href="https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">6 Absurd Ideas For Building Your First Web App</a></li>
-                                            <li name="8e38" id="8e38" class="graf graf--li graf-after--li"><a href="https://www.fullstackacademy.com/student-gallery" data-href="https://www.fullstackacademy.com/student-gallery" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Fullstack Student Final Projects</a></li>
-                                            <li name="e618" id="e618" class="graf graf--li graf-after--li"><a href="https://www.reddit.com/r/webdev/comments/3we48y/web_app_ideas_for_the_growing_web_developer/" data-href="https://www.reddit.com/r/webdev/comments/3we48y/web_app_ideas_for_the_growing_web_developer/" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">Web app ideas for the growing web developer</a></li>
-                                        </ul>
+----------------
 
 ## Table of Contents:
 * [C/C++](#cc)
