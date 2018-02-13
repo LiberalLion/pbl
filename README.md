@@ -4,6 +4,19 @@ A list of programming tutorials in which learners build an application from scra
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+
+(by Gopal)
+
+* [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+* [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+* [cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+* [system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+
+
+
 # #ref 
 
 <section name="66e4" class="section section--body">
