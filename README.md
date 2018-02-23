@@ -17,6 +17,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [freecodecamp](https://www.freecodecamp.org/)(to learn web dev)
 * [producthunt](https://www.producthunt.com/)(to watch new products in the market)
 * [scalability](https://github.com/binhnguyennus/awesome-scalability)
+* [project-guidelines](https://github.com/wearehive/project-guidelines)
+* []()
 
 ----------------
 
