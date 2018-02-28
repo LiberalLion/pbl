@@ -6,7 +6,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 -----------------
 
-(by Gopal)
+(by Gopal, github trends)
 
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 * [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
@@ -18,7 +18,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [producthunt](https://www.producthunt.com/)(to watch new products in the market)
 * [scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [project-guidelines](https://github.com/wearehive/project-guidelines)
-* []()
+* [flutter](https://github.com/flutter/flutter)
+* [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies)
+* [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)
+* [requests-html](https://github.com/kennethreitz/requests-html)
+* [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
+* [work-in-australia](https://github.com/wahyd4/work-in-australia)
 
 ----------------
 
