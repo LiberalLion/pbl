@@ -25,6 +25,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [requests-html](https://github.com/kennethreitz/requests-html)
 * [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
 * [work-in-australia](https://github.com/wahyd4/work-in-australia)
+* [gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 
 ----------------
 
