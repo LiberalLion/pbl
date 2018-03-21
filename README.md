@@ -27,7 +27,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [work-in-australia](https://github.com/wahyd4/work-in-australia)
 * [gopher-reading-list](https://github.com/enocom/gopher-reading-list)
 * [awesome-design](https://github.com/gztchan/awesome-design)
-
+* [full-speed-python](https://github.com/joaoventura/full-speed-python)
 * [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)
 ----------
 
