@@ -41,6 +41,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ----------------
 
+[awesome-ipfs](https://github.com/ipfs/awesome-ipfs)
+
+-------------------
+
 ## Table of Contents:
 * [C/C++](#cc)
 * [C#](#c)
