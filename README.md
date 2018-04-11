@@ -33,6 +33,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [marktext](https://github.com/marktext/marktext)
 * [awesome-blockchain-articles](https://github.com/wecodexyz/awesome-blockchain-articles)
 * [outline-server](https://github.com/Jigsaw-Code/outline-server)
+* [whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng)
+* [tabler](https://github.com/tabler/tabler)
 
 ----------
 
