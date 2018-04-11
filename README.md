@@ -11,6 +11,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Mybridge](https://github.com/Mybridge)(ranked articles)
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 * [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 * [cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
