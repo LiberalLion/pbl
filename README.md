@@ -45,6 +45,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [muffet](https://github.com/raviqqe/muffet)
 * [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [HTMLX](https://github.com/Rich-Harris/HTMLX) - One Template to rule them all
+* [big](https://github.com/tmcw/big) - presentations for busy messy hackers
 
 ----------
 
