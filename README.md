@@ -43,6 +43,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [hugo](https://github.com/gohugoio/hugo)
 * [css-blocks](https://github.com/linkedin/css-blocks)
 * [muffet](https://github.com/raviqqe/muffet)
+* [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+* [HTMLX](https://github.com/Rich-Harris/HTMLX) - One Template to rule them all
 
 ----------
 
