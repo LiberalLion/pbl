@@ -53,6 +53,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 * [AINews](https://github.com/AAAI/AINews)
 * [botpress](https://github.com/botpress)
+* [completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks)
 
 ----------
 
