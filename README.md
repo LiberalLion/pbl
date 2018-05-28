@@ -55,6 +55,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [botpress](https://github.com/botpress)
 * [completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks)
 * [react-native-dom](https://github.com/vincentriemer/react-native-dom)
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ----------
 
