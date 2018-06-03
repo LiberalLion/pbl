@@ -56,10 +56,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks)
 * [react-native-dom](https://github.com/vincentriemer/react-native-dom)
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 
 ----------
 
-[awesome-docker](https://github.com/veggiemonk/awesome-docker)
+[awesome-docker](https://github.com/veggiemonk/awesome-docker) 
 
 ---------
 
