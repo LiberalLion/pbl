@@ -9,6 +9,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 (by Gopal, github trends)
 
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 * [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
 * [Mybridge](https://github.com/Mybridge)(ranked articles)
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
