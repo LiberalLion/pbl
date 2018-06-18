@@ -59,6 +59,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [react-native-dom](https://github.com/vincentriemer/react-native-dom)
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
+- [ml5-library](https://github.com/ml5js/ml5-library)
+- [awesome-online-ide](https://github.com/styfle/awesome-online-ide)
 
 ----------
 
