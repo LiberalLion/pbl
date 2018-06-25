@@ -61,6 +61,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 - [ml5-library](https://github.com/ml5js/ml5-library)
 - [awesome-online-ide](https://github.com/styfle/awesome-online-ide)
+- [vibora](https://github.com/vibora-io/vibora)
 
 ----------
 
